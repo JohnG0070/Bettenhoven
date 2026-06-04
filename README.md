@@ -1,4 +1,3 @@
-<img width="4897" height="2797" alt="Image" src="[https://github.com/user-attachments/assets/34668a8e-6d18-49fd-9947-5fc12267a3a0](https://github.com/JohnG0070/Bettenhoven/blob/main/1953-beethoven-lilypond-MS.pdf)" />
 # Bettenhoven
 SMuFL compliant re-mapping of Abraham Lee's LilyPond font Beethoven.
 
