@@ -12,3 +12,6 @@ Bettenhoven (also known as Bettincourt) is the Dutch name of the village which m
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 
 Copyright (c) 2026
+
+Changelog:
+2026-06-19 Adjusted spacing of dynamics
